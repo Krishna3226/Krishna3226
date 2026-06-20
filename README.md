@@ -10,9 +10,9 @@ I build data-driven projects that solve real problems — from renewable energy 
 ## 🧰 Tech Stack
 
 **Languages:** Python · SQL · Java  
-**Data & ML:** Pandas · NumPy · Scikit-learn · XGBoost · TensorFlow Lite  
+**Data & ML:** Pandas · NumPy · Scikit-learn   
 **Visualization:** Matplotlib · Seaborn · Power BI · Streamlit  
-**Tools:** Git · Jupyter · Excel · PostgreSQL  
+**Tools:** Git · Jupyter · Excel · VS Code · PostgreSQL · DuckDB · MotherDuck
 
 ---
 
