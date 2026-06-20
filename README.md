@@ -18,16 +18,19 @@ I build data-driven projects that solve real problems — from renewable energy 
 
 ## 🚀 Projects
 
-### ☀️ [Solar Power Generation Prediction](https://github.com/<username>/solar-power-prediction)
-Predicting daily solar yield from weather sensor data using feature engineering, Random Forest, and XGBoost. Merged two heterogeneous time-series datasets, engineered lag/rolling features, and achieved high R² with chronological train-test split.  
-`Python` `XGBoost` `Feature Engineering` `Time-Series`
+
+### 🌏 [Asia Disaster Intelligence Dashboard](https://github.com/Krishna3226/Aisa-Disaster-Intelligence)
+Streamlit dashboard predicting flood and storm severity using EM-DAT data, Random Forest classification, and OpenCV satellite image analysis.  
+`Python` `Streamlit` `Random Forest` `OpenCV`
 
 ---
+---
 
-### 😴 [AI Driver Drowsiness & Safety Detection System](https://github.com/<username>/driver-safety-system)
+### 😴 [AI Driver Drowsiness & Safety Detection System](https://github.com/Krishna3226/ai-driver-drowsiness-detection)
 Production-grade real-time monitoring system with EAR/MAR-based drowsiness detection, YOLO distraction detection, head pose estimation, a 5-state temporal state machine, and PostgreSQL telemetry logging. Multi-threaded architecture with TFLite support for Android deployment.  
 `Python` `OpenCV` `YOLO` `TFLite` `PostgreSQL` `Multi-threading`
 
+---
 ---
 
 ### 📺 [Netflix Content Strategy EDA](https://github.com/<username>/netflix-eda)
@@ -35,16 +38,11 @@ End-to-end exploratory data analysis of Netflix's content library. Covers genre 
 `Python` `Pandas` `Seaborn` `Streamlit` `EDA`
 
 ---
-
-### 🌏 [Asia Disaster Intelligence Dashboard](https://github.com/<username>/asia-disaster-intelligence)
-Streamlit dashboard predicting flood and storm severity using EM-DAT data, Random Forest classification, and OpenCV satellite image analysis.  
-`Python` `Streamlit` `Random Forest` `OpenCV`
-
 ---
 
-### 🌿 [Skin Hydration Prediction App](https://github.com/<username>/skin-hydration-prediction)
-ML model predicting skin hydration levels from input features, packaged as an interactive app.  
-`Python` `Scikit-learn`
+### ☀️ [Solar Power Generation Prediction](https://github.com/<username>/solar-power-prediction)
+Predicting daily solar yield from weather sensor data using feature engineering, Random Forest, and XGBoost. Merged two heterogeneous time-series datasets, engineered lag/rolling features, and achieved high R² with chronological train-test split.  
+`Python` `XGBoost` `Feature Engineering` `Time-Series`
 
 ---
 
