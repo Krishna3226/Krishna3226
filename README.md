@@ -24,13 +24,7 @@ Streamlit dashboard predicting flood and storm severity using EM-DAT data, Rando
 `Python` `Streamlit` `Random Forest` `OpenCV`
 
 ---
----
 
-### 😴 [AI Driver Drowsiness & Safety Detection System](https://github.com/Krishna3226/ai-driver-drowsiness-detection)
-Production-grade real-time monitoring system with EAR/MAR-based drowsiness detection, YOLO distraction detection, head pose estimation, a 5-state temporal state machine, and PostgreSQL telemetry logging. Multi-threaded architecture with TFLite support for Android deployment.  
-`Python` `OpenCV` `YOLO` `TFLite` `PostgreSQL` `Multi-threading`
-
----
 ---
 
 ### 📺 [Netflix Content Strategy EDA](https://github.com/<username>/netflix-eda)
