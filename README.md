@@ -27,14 +27,14 @@ Streamlit dashboard predicting flood and storm severity using EM-DAT data, Rando
 
 ---
 
-### 📺 [Netflix Content Strategy EDA](https://github.com/<username>/netflix-eda)
+### 📺 [Netflix Content Strategy EDA](https://github.com/Krishna3226/netflix-eda)
 End-to-end exploratory data analysis of Netflix's content library. Covers genre multi-labeling, country-of-origin extraction, profit/ROI feature engineering, and a Streamlit dashboard. Full analytical decisions documented in `DECISIONS.md`.  
 `Python` `Pandas` `Seaborn` `Streamlit` `EDA`
 
 ---
 ---
 
-### ☀️ [Solar Power Generation Prediction](https://github.com/<username>/solar-power-prediction)
+### ☀️ [Solar Power Generation Prediction](https://github.com/Krishna3226/solar-power-prediction)
 Predicting daily solar yield from weather sensor data using feature engineering, Random Forest, and XGBoost. Merged two heterogeneous time-series datasets, engineered lag/rolling features, and achieved high R² with chronological train-test split.  
 `Python` `XGBoost` `Feature Engineering` `Time-Series`
 
